@@ -14,17 +14,9 @@ A very simple tool to copy all files from DO Spaces or Amazon S3 to another loca
 - AWSSDK.S3
 - System.CommandLine
 
-### Installing
-
-- How/where to download your program
-- Any modifications needed to be made to files/folders
-
 ### Executing program
 
 - Clone the repo
-- set the ENV variables for Spaces or AWS id and secret
-
-or
 
 ### Run for DO Spaces
 
